@@ -9,5 +9,5 @@ Controls
 i - zoom in
 o - zoom out
 c - display crosshair 
-arrow keys - controll offset
+arrow keys - control offset
 
