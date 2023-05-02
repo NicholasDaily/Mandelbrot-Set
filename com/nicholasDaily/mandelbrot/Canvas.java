@@ -1,4 +1,4 @@
-package com.unitedhuskies.mandelbrot;
+package com.nicholasDaily.mandelbrot;
 
 import java.awt.Color;
 import java.awt.Component;

@@ -1,4 +1,4 @@
-package com.unitedhuskies.mandelbrot;
+package com.nicholasDaily.mandelbrot;
 
 public class Job {
 	private int width = 0;
